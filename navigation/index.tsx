@@ -84,7 +84,7 @@ function BottomTabNavigator() {
           ),
         })}
       />
-      <BottomTab.Screen
+      <BottomTab.Screen 
         name="TabTwo"
         component={TabTwoScreen}
         options={{
